@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "UCL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHrG5qLdNfugMyo_1gG8ax7jsRsBdzibRWA&s",
+      "date": "2024-09-17",
+      "description": "jhshjs",
+      "id": "b1459a92-b015-40a1-bb7c-e836099d7706"
+    }
+  ],
+  "users": [
+    {
+      "email": "example@gmail.com",
+      "password": "$2a$12$/QmGwi8lLo2ME.GgxxI4peRIvnBB7kVK7xY/vWNvFwxLnJt9jDXR6",
+      "id": "2814a7ff-2789-47a8-866c-7add47b4c3d5"
+    }
+  ]
+}
